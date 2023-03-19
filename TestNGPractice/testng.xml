@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <test thread-count="5" name="GoolgeTests">
+    <classes>
+      <class name="com.yesm.maven.project.GoolgeTesting">
+      	<methods>
+      		<include name="goolgeTemperature"></include>
+      	</methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test thread-count="5" name="CalcTests">
+    <classes>
+      <class name="com.yesm.maven.project.TestCalc">
+      	<methods>
+      		<include name="testAddInt"></include>
+      	</methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
