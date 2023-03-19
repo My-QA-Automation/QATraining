@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/rest-assured-common-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Production/Desktop/RestAssured Libraries-20220831T012321Z-001/RestAssured Libraries/xml-path-4.3.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
