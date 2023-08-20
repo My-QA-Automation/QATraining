@@ -9,8 +9,8 @@ public class GetOrderByOrderId {
 
 		
 		given().
-		header("authorization", "c29cff2af91063f5ce8df34bd613825c96672ff62ef1e9ff66427e1ffbc3296d").
-		get("https://simple-books-api.glitch.me/orders/zT8hLWqdTqtxGzQp-lntl").
+		header("authorization", "9a28e840b81c9424a020c91bb42bd1e1210825076f45f6a34291d4d3df949578").
+		get("https://simple-books-api.glitch.me/orders/MlFkiobSvVPFD4ca98ngb").
 		then().
 		log().
 		all();
